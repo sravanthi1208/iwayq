@@ -1,4 +1,3 @@
 ff# iwayqnew
 Tesing 
-testing git
-my 
+testing git 
